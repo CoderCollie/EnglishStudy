@@ -13,9 +13,10 @@ const rawFlashcards = chapters.flatMap((ch) =>
 
 function App() {
   // --- 버전 관리 (GEMINI.md 준수) ---
-  const appVersion = `v1.2.0`;
-  
+  const appVersion = `v1.3.0`;
+
   // --- 상태 관리 ---
+
   const [deck, setDeck] = useState(rawFlashcards);
   const [currentIdx, setCurrentIdx] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
