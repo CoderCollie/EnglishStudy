@@ -1,61 +1,121 @@
-# Everyday English Refactoring: 50 Chapters Roadmap
+# Everyday English Refactoring: 100 Chapters Roadmap (Full Basic Course)
 
-## Part 1. Desires & Emotions (욕구와 감정)
-1. **Expressing Desire:** "I want to watch a movie." (나 영화 보러 가고 싶어.)
-2. **Exhaustion:** "I am very tired today." (오늘 너무 피곤해.)
-3. **Hunger/Thirst:** "I am very hungry." (나 배고파 죽겠어.)
-4. **Excitement:** "I am excited about the trip tomorrow." (내일 여행 가서 너무 신나.)
-5. **Boredom:** "This is so boring." (이거 너무 지루해.)
-6. **Frustration:** "I am annoyed." (아, 진짜 짜증 나네.)
-7. **Relief:** "I am glad it's over." (휴, 다행이다.)
-8. **Regret:** "I shouldn't have said that." (그렇게 말하지 말걸 그랬어.)
-9. **Nervousness:** "I am very nervous." (나 지금 너무 긴장돼.)
-10. **Surprise:** "I was really surprised." (진짜 깜짝 놀랐어.)
+## Part 1. Desires & Emotions
+1. **Expressing Desire:** "I want to watch a movie."
+2. **Exhaustion:** "I am very tired today."
+3. **Hunger/Thirst:** "I am very hungry."
+4. **Excitement:** "I am excited about the trip tomorrow."
+5. **Boredom:** "This is so boring."
+6. **Frustration:** "I am annoyed."
+7. **Relief:** "I am glad it's over."
+8. **Regret:** "I shouldn't have said that."
+9. **Nervousness:** "I am very nervous."
+10. **Surprise:** "I was really surprised."
 
-## Part 2. Social Interactions (사회적 교류)
-11. **Apologizing:** "I am sorry I am late." (늦어서 미안해.)
-12. **Gratitude:** "Thank you for helping me." (도와줘서 정말 고마워.)
-13. **Making Plans:** "Let's meet this weekend." (이번 주말에 만날래?)
-14. **Declining Invitations:** "Sorry, I can't go today." (미안한데 나 오늘 못 가.)
-15. **Catching Up:** "Long time no see, how are you?" (오랜만이야, 잘 지냈어?)
-16. **Saying Goodbye:** "I have to go now." (나 이제 가봐야 해.)
-17. **Cheering Up:** "Cheer up, it will be okay." (기운 내, 잘될 거야.)
-18. **Complimenting:** "Your clothes look nice today." (너 오늘 옷 예쁘다.)
-19. **Sympathizing:** "That's too bad." (그거 참 안됐다.)
-20. **Small Talk:** "The weather is nice today." (오늘 날씨 진짜 좋네.)
+## Part 2. Social Interactions
+11. **Apologizing:** "I am sorry I am late."
+12. **Gratitude:** "Thank you for helping me."
+13. **Making Plans:** "Let's meet this weekend."
+14. **Declining Invitations:** "Sorry, I can't go today."
+15. **Catching Up:** "Long time no see, how are you?"
+16. **Saying Goodbye:** "I have to go now."
+17. **Cheering Up:** "Cheer up, it will be okay."
+18. **Complimenting:** "Your clothes look nice today."
+19. **Sympathizing:** "That's too bad."
+20. **Small Talk:** "The weather is nice today."
 
-## Part 3. Opinions & Thoughts (의견과 생각)
-21. **Giving Opinion:** "I think this is a good idea." (내 생각엔 이게 좋은 아이디어 같아.)
-22. **Agreeing:** "I agree with you completely." (네 말에 완전히 동의해.)
-23. **Disagreeing:** "I don't think so." (난 그렇게 생각 안 해.)
-24. **Uncertainty:** "I am not sure." (나도 잘 모르겠어.)
-25. **Realization:** "Ah, now I know." (아, 이제 알겠다.)
-26. **Persuasion:** "Listen to me." (내 말 좀 들어봐.)
-27. **Changing Mind:** "I changed my mind." (생각을 좀 바꿔봤어.)
-28. **Predicting:** "I think it will rain." (비가 올 것 같아.)
-29. **Summarizing:** "So you mean this?" (그러니까 네 말은 이거지?)
-30. **Expressing Doubt:** "I doubt it's true." (그게 진짜일까?)
+## Part 3. Opinions & Thoughts
+21. **Giving Opinion:** "I think this is a good idea."
+22. **Agreeing:** "I agree with you completely."
+23. **Disagreeing:** "I don't think so."
+24. **Uncertainty:** "I am not sure."
+25. **Realization:** "Ah, now I know."
+26. **Persuasion:** "Listen to me."
+27. **Changing Mind:** "I changed my mind."
+28. **Predicting:** "I think it will rain."
+29. **Summarizing:** "So you mean this?"
+30. **Expressing Doubt:** "Is that true?"
 
-## Part 4. Requests & Inquiries (요청과 질문)
-31. **Asking for Help:** "Can you help me with this?" (이것 좀 도와줄래?)
-32. **Asking for Permission:** "Can I sit here?" (여기 앉아도 돼?)
-33. **Asking for Advice:** "What should I do?" (나 어떻게 해야 해?)
-34. **Checking Understanding:** "Do you understand me?" (내 말 이해했어?)
-35. **Asking for Repetition:** "Can you say that again?" (다시 한 번 말해줄래?)
-36. **Offering Help:** "Do you need help?" (내가 도와줄까?)
-37. **Giving Instructions:** "Do it like this." (이거 이렇게 해.)
-38. **Asking for Price:** "How much is this?" (이거 얼마예요?)
-39. **Asking for Directions:** "How do I go to the station?" (역으로 가려면 어떻게 가요?)
-40. **Clarifying:** "What does this mean?" (이게 무슨 뜻이야?)
+## Part 4. Requests & Inquiries
+31. **Asking for Help:** "Can you help me with this?"
+32. **Asking for Permission:** "Can I sit here?"
+33. **Asking for Advice:** "What should I do?"
+34. **Checking Understanding:** "Do you understand me?"
+35. **Asking for Repetition:** "Can you say that again?"
+36. **Offering Help:** "Do you need help?"
+37. **Giving Instructions:** "Do it like this."
+38. **Asking for Price:** "How much is this?"
+39. **Asking for Directions:** "How do I go to the station?"
+40. **Clarifying:** "What does this mean?"
 
-## Part 5. Daily States & Habits (일상의 상태와 습관)
-41. **Waking Up:** "I just woke up." (나 방금 일어났어.)
-42. **Going to Sleep:** "I am going to sleep now." (나 이제 잘 거야.)
-43. **Commuting:** "I am going to work." (지금 출근하는 중이야.)
-44. **Working Out:** "I work out these days." (나 요즘 운동해.)
-45. **Eating Habits:** "I am on a diet." (나 다이어트 중이야.)
-46. **Hobby:** "I read books when I rest." (쉴 때 보통 책 읽어.)
-47. **Busyness:** "I was busy all day." (나 오늘 하루 종일 바빴어.)
-48. **Sickness:** "I think I have a cold." (나 감기 걸린 것 같아.)
-49. **Forgetting:** "Ah, I forgot." (아, 깜빡했다.)
-50. **Waiting:** "I have been waiting for 30 minutes." (나 30분째 기다리고 있어.)
+## Part 5. Daily States & Habits
+41. **Waking Up:** "I just woke up."
+42. **Going to Sleep:** "I am going to sleep now."
+43. **Commuting:** "I am going to work."
+44. **Working Out:** "I work out these days."
+45. **Eating Habits:** "I am on a diet."
+46. **Hobby:** "I read books when I rest."
+47. **Busyness:** "I was busy all day."
+48. **Sickness:** "I think I have a cold."
+49. **Forgetting:** "Ah, I forgot."
+50. **Waiting:** "I have been waiting for 30 minutes."
+
+## Part 6. Dining & Shopping
+51. **Ordering Food:** "I'll order this."
+52. **Special Requests:** "Please leave out the onions."
+53. **Complaining about Service:** "The food is taking too long."
+54. **Asking for the Bill:** "Can I have the check, please?"
+55. **Browsing in a Store:** "I'm just looking around."
+56. **Asking for a Discount:** "Can you give me a discount?"
+57. **Returning an Item:** "I'd like to return this."
+58. **Trying on Clothes:** "Can I try this on?"
+59. **Searching for a Specific Item:** "Do you have ~?"
+60. **Payment Issues:** "My card is not working."
+
+## Part 7. Travel & Transportation
+61. **Booking a Flight/Hotel:** "I'd like to make a reservation."
+62. **Checking in/out:** "I'm here to check in."
+63. **Dealing with Delays:** "My flight has been delayed."
+64. **Asking for Local Tips:** "Can you recommend a good place to eat?"
+65. **Taking a Taxi:** "Please take me to this address."
+66. **Public Transport Issues:** "I think I took the wrong train."
+67. **Lost and Found:** "I lost my bag."
+68. **Describing a Destination:** "The view was breathtaking."
+69. **Currency Exchange:** "Where can I exchange money?"
+70. **Border Control/Customs:** "I'm here for sightseeing."
+
+## Part 8. Health, Wellness & Emergencies
+71. **Visiting the Doctor:** "I'm not feeling well."
+72. **Describing Symptoms:** "I have a headache and a fever."
+73. **At the Pharmacy:** "I need some cold medicine."
+74. **Expressing Mental Fatigue:** "I'm so stressed lately."
+75. **Emergency Help:** "Help! There's been an accident."
+76. **Wellness Habits:** "I've been trying to ~ for my health."
+77. **Allergy Warnings:** "I'm allergic to nuts."
+78. **Giving Reassurance:** "Don't worry, you'll feel better soon."
+79. **Asking for Space:** "I need some time alone."
+80. **Expressing Relief (Post-emergency):** "That was a close call."
+
+## Part 9. Nuanced Social Situations
+81. **Making an Excuse:** "I couldn't make it because ~."
+82. **Congratulating Someone:** "Congratulations!"
+83. **Reacting to Good News:** "That's amazing!"
+84. **Reacting to Bad News:** "I'm so sorry to hear that."
+85. **Gossiping (Lightly):** "Did you hear the news?"
+86. **Making a Toast:** "To our success!"
+87. **Giving a Warning:** "You'd better be careful."
+88. **Expressing Disappointment:** "I'm so disappointed in you."
+89. **Setting Boundaries:** "I'm not comfortable with that."
+90. **Asking for a Favor (Big):** "Could you do me a huge favor?"
+
+## Part 10. Life & Reflections
+91. **Talking about Family:** "My family usually ~."
+92. **Childhood Memories:** "When I was a kid, I used to ~."
+93. **Discussing Future Plans:** "My dream is to ~ someday."
+94. **Expressing Regret (Long-term):** "I should have ~ back then."
+95. **Describing Character:** "He/She is such a ~ person."
+96. **Talking about the Past (Nostalgia):** "I miss those days."
+97. **Expressing Gratitude (Deep):** "You mean so much to me."
+98. **Giving Advice (Wise):** "Life is all about ~."
+99. **Sharing a Secret:** "Keep this between us."
+100. **Reflecting on the Course:** "I've come a long way."
