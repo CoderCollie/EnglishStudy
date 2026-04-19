@@ -7,11 +7,14 @@ function App() {
   const [isFlipped, setIsFlipped] = useState(false);
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
-  // 현재 버전 정보 (챕터 개수 기준)
+  // 버전 정보 (챕터 개수 기준)
   const appVersion = `v0.${Math.floor(chapters.length / 10)}.${chapters.length % 10}`;
 
+  // 터치 상태 정밀 제어
   const touchStartX = useRef(null);
+  const touchStartY = useRef(null);
   const touchEndX = useRef(null);
+  const touchEndY = useRef(null);
 
   const currentChapter = chapters[currentChapterIdx];
   const currentVar = currentChapter.variations[currentVarIdx];
@@ -47,25 +50,42 @@ function App() {
     setIsSidebarOpen(false);
   };
 
+  // 정밀 스와이프 핸들러
   const handleTouchStart = (e) => {
     touchStartX.current = e.targetTouches[0].clientX;
+    touchStartY.current = e.targetTouches[0].clientY;
   };
 
   const handleTouchMove = (e) => {
     touchEndX.current = e.targetTouches[0].clientX;
+    touchEndY.current = e.targetTouches[0].clientY;
   };
 
   const handleTouchEnd = () => {
-    if (!touchStartX.current || !touchEndX.current) return;
-    const distance = touchStartX.current - touchEndX.current;
-    if (distance > 50) nextVar();
-    else if (distance < -50) prevVar();
+    if (!touchStartX.current || !touchEndX.current || !touchStartY.current || !touchEndY.current) return;
+    
+    const deltaX = touchStartX.current - touchEndX.current;
+    const deltaY = touchStartY.current - touchEndY.current;
+    
+    const minSwipeDistance = 40; // 최소 이동 거리
+    
+    // 가로 이동이 세로 이동보다 훨씬 클 때만 스와이프로 인정 (터치 잠금)
+    if (Math.abs(deltaX) > Math.abs(deltaY) * 1.5) {
+      if (Math.abs(deltaX) > minSwipeDistance) {
+        if (deltaX > 0) nextVar();
+        else prevVar();
+      }
+    }
+
+    // 초기화
     touchStartX.current = null;
+    touchStartY.current = null;
     touchEndX.current = null;
+    touchEndY.current = null;
   };
 
   return (
-    <div className="flex h-screen bg-slate-950 text-slate-100 overflow-hidden font-noto text-sm md:text-base">
+    <div className="flex h-screen bg-slate-950 text-slate-100 overflow-hidden font-noto text-sm md:text-base selection:bg-blue-500/30">
       {/* Mobile Overlay */}
       {isSidebarOpen && (
         <div className="fixed inset-0 bg-black/60 z-40 md:hidden backdrop-blur-sm" onClick={() => setIsSidebarOpen(false)} />
@@ -78,14 +98,12 @@ function App() {
       `}>
         <div className="p-6 border-b border-slate-800 flex justify-between items-center">
           <div>
-            <h1 className="text-xl font-black text-blue-500 tracking-tighter italic">ENGLISH STUDY</h1>
+            <h1 className="text-xl font-black text-blue-500 tracking-tighter italic uppercase">English Study</h1>
             <p className="text-[10px] text-slate-500 uppercase tracking-widest font-bold">100 Course Roadmap</p>
           </div>
-          <div className="md:hidden">
-            <button onClick={() => setIsSidebarOpen(false)} className="p-2 text-slate-400">
-              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" strokeWidth="2" strokeLinecap="round" /></svg>
-            </button>
-          </div>
+          <button onClick={() => setIsSidebarOpen(false)} className="md:hidden p-2 text-slate-400">
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" strokeWidth="2" strokeLinecap="round" /></svg>
+          </button>
         </div>
         <div className="flex-1 overflow-y-auto custom-scrollbar pt-2">
           {chapters.map((ch, idx) => (
@@ -107,9 +125,8 @@ function App() {
             </button>
           ))}
         </div>
-        {/* Version Indicator */}
         <div className="p-4 border-t border-slate-800 bg-slate-900/50 text-center">
-          <span className="text-[10px] font-mono text-slate-600 uppercase tracking-widest">Version {appVersion}</span>
+          <span className="text-[10px] font-mono text-slate-600 uppercase tracking-widest italic">Version {appVersion}</span>
         </div>
       </div>
 
@@ -122,7 +139,7 @@ function App() {
             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16" strokeWidth="2" strokeLinecap="round" /></svg>
           </button>
           <div className="ml-4 truncate">
-            <span className="text-[10px] text-slate-500 block uppercase font-bold tracking-tighter">Current Chapter</span>
+            <span className="text-[10px] text-slate-500 block uppercase font-bold tracking-tighter">Chapter {currentChapterIdx + 1}</span>
             <span className="text-sm font-bold text-slate-200">{currentChapter.title.split(': ')[1]}</span>
           </div>
           <div className="ml-auto text-[10px] font-mono text-slate-700">{appVersion}</div>
@@ -142,9 +159,15 @@ function App() {
               </div>
             </div>
 
-            {/* Flashcard */}
-            <div className="flex-1 flex flex-col items-center justify-center py-2 md:py-4 min-h-[450px]" onTouchStart={handleTouchStart} onTouchMove={handleTouchMove} onTouchEnd={handleTouchEnd}>
-              <div className="relative w-full max-w-lg aspect-[4/5] md:h-[450px] perspective-1000 cursor-pointer" onClick={() => setIsFlipped(!isFlipped)}>
+            {/* Flashcard (touch-action: pan-y 적용) */}
+            <div 
+              className="flex-1 flex flex-col items-center justify-center py-2 md:py-4 min-h-[450px] touch-action-none" 
+              style={{ touchAction: 'pan-y' }}
+              onTouchStart={handleTouchStart} 
+              onTouchMove={handleTouchMove} 
+              onTouchEnd={handleTouchEnd}
+            >
+              <div className="relative w-full max-w-lg aspect-[4/5] md:max-h-[500px] md:h-[450px] perspective-1000 cursor-pointer" onClick={() => setIsFlipped(!isFlipped)}>
                 <div className={`w-full h-full duration-700 preserve-3d transition-transform ${isFlipped ? 'rotate-y-180' : ''}`}>
                   
                   {/* FRONT: ENGLISH */}
@@ -155,7 +178,7 @@ function App() {
                     <h3 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
                       "{currentVar.sentence}"
                     </h3>
-                    <div className="mt-12 p-3 rounded-2xl bg-black/20 border border-white/10">
+                    <div className="mt-12 p-3 rounded-2xl bg-black/20 border border-white/10 shadow-inner">
                        <p className="text-[10px] text-blue-200 uppercase font-bold tracking-tight">Tap to Reveal Meaning</p>
                     </div>
                   </div>
@@ -172,7 +195,7 @@ function App() {
                         <p className="text-sm md:text-base text-slate-600 font-medium">{currentVar.literalTranslation}</p>
                       </div>
                       <div className="px-1 pb-4">
-                        <p className="text-orange-500 text-[10px] font-black uppercase mb-2 tracking-widest italic">Nuance</p>
+                        <p className="text-orange-500 text-[10px] font-black uppercase mb-2 tracking-widest italic font-bold">Nuance Analysis</p>
                         <p className="text-xs md:text-sm leading-relaxed text-slate-700 whitespace-pre-line font-medium">
                           {currentVar.nuance}
                         </p>
@@ -191,7 +214,7 @@ function App() {
                   <div className="text-[10px] font-black text-slate-600 uppercase tracking-widest mb-2 italic">Swipe to navigate</div>
                   <div className="flex gap-1.5 items-center bg-slate-900 px-4 py-2 rounded-xl border border-slate-800 shadow-inner">
                     {Array.from({ length: 10 }).map((_, i) => (
-                      <div key={i} className={`w-1.5 h-1.5 rounded-full transition-all ${i === currentVarIdx ? 'bg-blue-500 scale-125' : 'bg-slate-700'}`} />
+                      <div key={i} className={`w-1.5 h-1.5 rounded-full transition-all duration-300 ${i === currentVarIdx ? 'bg-blue-500 scale-150 shadow-[0_0_8px_rgba(59,130,246,0.5)]' : 'bg-slate-700'}`} />
                     ))}
                   </div>
                 </div>
@@ -199,7 +222,7 @@ function App() {
                   <svg className="w-6 h-6 group-hover:scale-110 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"/></svg>
                 </button>
               </div>
-              <p className="hidden md:block mt-6 text-slate-600 text-[10px] font-bold uppercase tracking-[0.2em] opacity-50">Arrows to navigate • Space to flip</p>
+              <p className="hidden md:block mt-6 text-slate-600 text-[10px] font-bold uppercase tracking-[0.2em] opacity-30">Arrows to navigate • Space to flip</p>
             </div>
           </div>
         </div>
