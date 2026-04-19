@@ -6,9 +6,18 @@
 }
 
 @layer base {
-  body {
+  /* 페이지 전체 스크롤 원천 차단 */
+  html, body, #root {
+    height: 100dvh; /* Dynamic Viewport Height (모바일 대응) */
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    overflow: hidden !important; /* 세로 스크롤 금지 */
+    position: fixed; /* 바운스 효과 방지 */
     font-family: "Noto Sans KR", sans-serif;
-    @apply bg-slate-900 text-slate-100 antialiased;
+    @apply bg-slate-950 text-slate-100 antialiased;
+    -webkit-overflow-scrolling: touch;
+    touch-action: none; /* 브라우저 기본 제스처 차단 (스와이프 우선) */
   }
 }
 
@@ -29,17 +38,20 @@
     transform: rotateY(180deg);
   }
 
-  /* Custom scrollbar */
+  /* 내부 스크롤이 필요한 영역 전용 (카드 뒷면 등) */
+  .custom-scrollbar {
+    overflow-y: auto;
+    touch-action: pan-y; /* 세로 스크롤만 허용 */
+    -webkit-overflow-scrolling: touch;
+  }
+
   .custom-scrollbar::-webkit-scrollbar {
-    width: 6px;
+    width: 4px;
   }
   .custom-scrollbar::-webkit-scrollbar-track {
-    @apply bg-slate-800;
+    @apply bg-transparent;
   }
   .custom-scrollbar::-webkit-scrollbar-thumb {
-    @apply bg-slate-600 rounded-full;
-  }
-  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-    @apply bg-slate-500;
+    @apply bg-slate-200/20 rounded-full;
   }
 }
