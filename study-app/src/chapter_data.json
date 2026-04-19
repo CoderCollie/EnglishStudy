@@ -5598,5 +5598,705 @@
         "nuance": "** 완벽한 복귀 선언입니다. **'back in action'**과 **'tackle'**(힘차게 다루다)이라는 단어를 사용하여 활기찬 에너지를 팀에 전파하는 최고의 마무리입니다."
       }
     ]
+  },
+  {
+    "id": 81,
+    "title": "Ch 81. Everyday Basic: Softening a Refusal",
+    "coreMeaning": {
+      "kr": "안 돼요.",
+      "en": "No, I can't do that."
+    },
+    "variations": [
+      {
+        "sentence": "I’d love to help, but I’m currently swamped with other priorities.",
+        "literalTranslation": "** 나는 돕기를 매우 원합니다, 하지만 나는 현재 다른 우선순위들로 늪에 빠져 있습니다.",
+        "meaning": "정말 도와드리고 싶은데, 지금 다른 급한 일들 때문에 정신이 하나도 없네요.",
+        "nuance": "** **'I'd love to'**(의지)로 긍정적인 쿠션을 먼저 깔아줍니다. **'swamped'**는 늪에 빠진 것처럼 일이 밀려옴을 뜻하는 생생한 표현으로, 거절의 핑계를 내 능력이 아닌 물리적인 상황 탓으로 돌리는 영리한 화법입니다."
+      },
+      {
+        "sentence": "I appreciate the offer, but I don't think I’m the best fit for this role.",
+        "literalTranslation": "** 제안에 감사합니다, 하지만 나는 내가 이 역할을 위한 최고의 적임자라고 생각하지 않습니다.",
+        "meaning": "제안해 주신 건 감사한데, 제가 이 일에 딱 맞는 사람은 아닌 것 같아요.",
+        "nuance": "** **'appreciate the offer'**(제안에 대한 감사)로 대화를 엽니다. **'best fit'**은 가장 적합한 사람이라는 뜻으로, 나보다 더 나은 사람에게 기회를 양보하는 듯한 겸손한 거절 방식입니다."
+      },
+      {
+        "sentence": "Unfortunately, my schedule is completely booked up for the foreseeable future.",
+        "literalTranslation": "** 불행히도, 내 일정은 예측 가능한 미래 동안 완전히 예약이 꽉 차 있습니다.",
+        "meaning": "안타깝게도 당분간은 스케줄이 꽉 차 있어서 짬을 내기가 어렵네요.",
+        "nuance": "** **'booked up'**은 예약이 다 찼다는 뜻입니다. **'for the foreseeable future'**(당분간, 예측 가능한 미래 동안)라는 고급 표현을 써서 당장의 부탁뿐 아니라 가까운 시일 내의 추가 부탁까지 세련되게 차단합니다."
+      },
+      {
+        "sentence": "I wish I could say yes, but I have to pass on this one.",
+        "literalTranslation": "** 내가 예스라고 말할 수 있기를 바랍니다, 하지만 나는 이번 것은 지나쳐야만 합니다.",
+        "meaning": "저도 좋다고 하고 싶은데, 아쉽지만 이번엔 좀 넘어가야 할 것 같아요.",
+        "nuance": "** **'I wish I could'**는 불가능한 소망을 나타내는 가정법입니다. **'pass on'**은 (기회나 제안을) 거절하다/넘기다라는 뜻의 아주 캐주얼하고 쿨한 관용구입니다."
+      },
+      {
+        "sentence": "That sounds like a great opportunity, but the timing just isn’t right for me.",
+        "literalTranslation": "** 그것은 훌륭한 기회처럼 들립니다, 하지만 타이밍이 나에게 단지 맞지 않습니다.",
+        "meaning": "정말 좋은 기회 같긴 한데, 아쉽게도 저랑 타이밍이 좀 안 맞네요.",
+        "nuance": "** 상대방의 제안을 **'great opportunity'**라고 치켜세워줍니다. 거절의 이유를 '나의 부족함'이나 '제안의 별로임'이 아닌 오직 **'timing'**의 탓으로 돌리는 마법 같은 문장입니다."
+      },
+      {
+        "sentence": "I'm honored you thought of me, but I have to decline at this time.",
+        "literalTranslation": "** 당신이 나를 생각해 주셔서 나는 영광입니다, 하지만 나는 이 시점에는 거절해야만 합니다.",
+        "meaning": "저를 떠올려 주신 건 정말 영광이지만, 이번에는 고사해야 할 것 같습니다.",
+        "nuance": "** **'honored'**(영광인)라는 아주 격식 있는 단어를 사용하여 상대방에게 최고의 예우를 표합니다. **'decline'**은 `say no`보다 훨씬 공식적이고 정중한 거절 동사입니다."
+      },
+      {
+        "sentence": "To be completely honest, I don't have the bandwidth to take that on right now.",
+        "literalTranslation": "** 완전히 솔직히 말해서, 나는 지금 당장 그것을 떠맡을 대역폭(여유)을 가지고 있지 않습니다.",
+        "meaning": "솔직히 말씀드리면, 지금 당장 그걸 더 맡을 마음의 여유가 없어요.",
+        "nuance": "** **'bandwidth'**는 원래 통신 대역폭을 뜻하지만, 실무에서는 시간적/정신적 '여력'을 뜻하는 찰떡같은 은유로 쓰입니다. 개발자나 비즈니스맨 사이에서 가장 많이 쓰이는 거절 사유입니다."
+      },
+      {
+        "sentence": "I’m afraid I’m going to have to bow out of this project.",
+        "literalTranslation": "** 나는 내가 이 프로젝트에서 인사하고 물러나야 할 것 같아 유감입니다.",
+        "meaning": "죄송하지만 이번 프로젝트에서는 제가 빠져야 할 것 같습니다.",
+        "nuance": "** **'I'm afraid'**는 두렵다는 뜻이 아니라 \"유감스럽지만 ~하다\"라는 정중한 쿠션어입니다. **'bow out'**은 무대에서 정중히 인사하고 내려오듯 사임하거나 기권한다는 뜻의 고급스러운 관용구입니다."
+      },
+      {
+        "sentence": "As much as I'd like to join you, I already have a prior commitment.",
+        "literalTranslation": "** 내가 당신과 합류하고 싶은 만큼이나, 나는 이미 이전의 약속(헌신)을 가지고 있습니다.",
+        "meaning": "저도 정말 같이 가고 싶은데, 선약이 있어서 어쩔 수가 없네요.",
+        "nuance": "** **'As much as ~'**(~하고 싶은 마음은 굴뚝같지만) 패턴으로 짙은 아쉬움을 표현합니다. **'prior commitment'**는 단순한 `plan`보다 훨씬 공식적이고 깰 수 없는 선약의 느낌을 줍니다."
+      },
+      {
+        "sentence": "Let me think about it, but please don't hold your breath.",
+        "literalTranslation": "** 내가 그것에 대해 생각하게 해주세요, 하지만 제발 당신의 숨을 참지(기대하지) 마세요.",
+        "meaning": "일단 생각은 해볼 텐데, 너무 기대하지는 마세요.",
+        "nuance": "** 즉답을 피하면서도 사실상 거절의 뉘앙스를 강하게 풍깁니다. **'don't hold your breath'**는 \"기대하면서 숨죽이고 기다리지 마라 = 안 될 확률이 높다\"는 뜻의 위트 있는 원어민식 뼈 때리기 표현입니다."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Ch 82. Everyday Basic: Expressing Strong Agreement",
+    "coreMeaning": {
+      "kr": "맞아요.",
+      "en": "Yes, I agree."
+    },
+    "variations": [
+      {
+        "sentence": "I couldn't agree with you more on that point.",
+        "literalTranslation": "** 나는 그 점에 관하여 당신과 이보다 더 동의할 수 없습니다.",
+        "meaning": "그 점에 대해서는 진짜 완전 100% 동의합니다.",
+        "nuance": "** **'couldn't agree more'**는 더 이상 동의할 수 없을 만큼(현재가 최대치) 동의한다는 최상급 표현입니다. 비즈니스 미팅에서 동료의 의견에 강하게 힘을 실어줄 때 가장 많이 쓰이는 정석입니다."
+      },
+      {
+        "sentence": "You hit the nail right on the head with that observation.",
+        "literalTranslation": "** 당신은 그 관찰과 함께 못의 머리를 정확히 때렸습니다.",
+        "meaning": "방금 하신 말씀이 진짜 정곡을 찔렀네요.",
+        "nuance": "** **'hit the nail on the head'**는 망치로 못의 대가리를 정확히 맞추듯, 문제의 핵심을 완벽하게 짚어냈다는 원어민들의 최애 관용구입니다. 상대방의 통찰력을 치켜세우는 극찬입니다."
+      },
+      {
+        "sentence": "That makes perfect sense to me; you took the words right out of my mouth.",
+        "literalTranslation": "** 그것은 나에게 완벽한 이치를 만듭니다; 당신이 내 입에서 단어들을 바로 가져갔네요.",
+        "meaning": "완전 말 되네요. 안 그래도 제가 딱 그 말 하려고 했거든요!",
+        "nuance": "** **'took the words out of my mouth'**는 내 입안에 있던 말을 네가 훔쳐 갔다, 즉 \"내 마음과 똑같다\"는 뜻의 아주 경쾌하고 친근한 동의 표현입니다."
+      },
+      {
+        "sentence": "I’m completely on the same page as you regarding this strategy.",
+        "literalTranslation": "** 이 전략에 관하여 나는 당신과 완전히 같은 페이지 위에 있습니다.",
+        "meaning": "이 전략에 관해서는 저도 당신과 완전히 생각이 같습니다.",
+        "nuance": "** **'on the same page'**는 책의 같은 페이지를 보고 있다는 뜻으로, 이해도나 의견이 일치함을 뜻하는 완벽한 비즈니스 은유입니다. 방향성이 같음을 확인할 때 씁니다."
+      },
+      {
+        "sentence": "Absolutely. That aligns perfectly with what I’ve been thinking.",
+        "literalTranslation": "** 절대적으로(맞습니다). 그것은 내가 생각해 오던 것과 완벽하게 정렬됩니다.",
+        "meaning": "맞아요. 그게 바로 제가 계속 생각하던 방향이랑 딱 맞습니다.",
+        "nuance": "** **'aligns with'**는 ~과 나란히 정렬된다(일치한다)는 뜻의 지적인 동사입니다. 내 생각과 상대방의 제안이 한 방향을 가리키고 있음을 논리적으로 승인하는 화법입니다."
+      },
+      {
+        "sentence": "Without a doubt. You're absolutely spot on about the root cause.",
+        "literalTranslation": "** 의심의 여지 없이(맞습니다). 당신은 근본 원인에 대해 완전히 점 위에(정확) 있습니다.",
+        "meaning": "두말할 필요 없죠. 근본 원인에 대해서 아주 정확하게 짚으셨네요.",
+        "nuance": "** **'Without a doubt'**(의심의 여지 없이)로 강하게 시작하여, **'spot on'**(과녁의 점을 정확히 맞춘)이라는 형용사로 상대방의 분석이 틀림없음을 보증합니다."
+      },
+      {
+        "sentence": "I second that. We definitely need to prioritize this issue.",
+        "literalTranslation": "** 나는 그것을 두 번째 합니다(재청합니다). 우리는 분명히 이 문제를 우선순위에 두어야 합니다.",
+        "meaning": "저도 동의합니다. 이 문제부터 무조건 먼저 처리해야 해요.",
+        "nuance": "** **'I second that'**은 회의에서 누군가의 동의에 '나도 찬성(재청)이요'라고 손을 들 때 쓰는 아주 깔끔하고 짧은 표현입니다."
+      },
+      {
+        "sentence": "That’s exactly what I was driving at. Brilliant minds think alike!",
+        "literalTranslation": "** 그것이 정확히 내가 운전해 가던(의도하던) 바입니다. 훌륭한 마음들은 똑같이 생각하네요!",
+        "meaning": "제가 딱 그 말을 하려던 참이었어요. 역시 훌륭한 사람들은 생각이 통한다니까요!",
+        "nuance": "** **'driving at'**은 대화의 목적지(의도)를 향해 간다는 뜻입니다. **'Great/Brilliant minds think alike'**라는 유명한 속담을 덧붙여 상대와 나 자신을 동시에 칭찬하는 유쾌한 동의입니다."
+      },
+      {
+        "sentence": "I’m one hundred percent behind you on this decision.",
+        "literalTranslation": "** 나는 이 결정에 관하여 당신 뒤에 100퍼센트 있습니다.",
+        "meaning": "이번 결정에 대해서는 제가 백 퍼센트 전적으로 지지합니다.",
+        "nuance": "** **'behind you'**는 누군가의 뒤에 든든하게 버티고 서서 지지한다는 아주 의리 있는 뉘앙스의 표현입니다. 동료에게 무한한 신뢰를 보낼 때 사용하세요."
+      },
+      {
+        "sentence": "Preach! That’s the most sensible thing I’ve heard all day.",
+        "literalTranslation": "** 설교하세요! 그것은 내가 하루 종일 들은 가장 합리적인 것입니다.",
+        "meaning": "내 말이! 오늘 들은 얘기 중에 제일 맞는 말이네.",
+        "nuance": "** **'Preach!'**는 원래 설교하라는 뜻이지만, 흑인 영어에서 유래하여 \"네 말이 진리다, 계속 말해라!\"라는 뜻의 아주 힙하고 캐주얼한 동의로 쓰입니다."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Ch 83. Everyday Basic: Subtle Disagreement",
+    "coreMeaning": {
+      "kr": "저는 반대합니다.",
+      "en": "I don't agree with you."
+    },
+    "variations": [
+      {
+        "sentence": "I see where you're coming from, but I have a slightly different perspective.",
+        "literalTranslation": "** 나는 당신이 어디서 오고 있는지(어떤 맥락인지) 봅니다, 하지만 나는 약간 다른 관점을 가지고 있습니다.",
+        "meaning": "무슨 말씀이신지는 알겠는데, 제 생각은 조금 다릅니다.",
+        "nuance": "** **'see where you're coming from'**은 상대의 배경과 입장을 이해한다는 최고의 쿠션어입니다. 반대 의견을 **'slightly different perspective'**(약간 다른 관점)로 포장하여 공격성을 낮췄습니다."
+      },
+      {
+        "sentence": "That’s an interesting point, though I wonder if we’ve considered all the alternatives.",
+        "literalTranslation": "** 그것은 흥미로운 점입니다, 비록 우리가 모든 대안들을 고려했는지 나는 궁금하지만요.",
+        "meaning": "흥미로운 의견이긴 한데, 우리가 다른 대안들도 다 검토해 본 건지 좀 우려되네요.",
+        "nuance": "** 반대의 뜻을 직접 밝히지 않고, **'I wonder if'**(~인지 궁금하다)라는 의문문 형태를 빌려 문제점을 제기하는 아주 영리하고 지적인 화법입니다."
+      },
+      {
+        "sentence": "With all due respect, I don't think that approach will yield the best results.",
+        "literalTranslation": "** 모든 마땅한 존경과 함께, 나는 그 접근법이 최고의 결과들을 산출할 것이라 생각하지 않습니다.",
+        "meaning": "외람된 말씀입니다만, 그 방식이 최선의 결과를 낼 것 같지는 않습니다.",
+        "nuance": "** **'With all due respect'**는 자신보다 윗사람이나 공식적인 자리에서 반대 의견을 낼 때 쓰는 마법의 서두입니다. **'yield'**는 결과를 산출하다는 뜻의 고급 비즈니스 어휘입니다."
+      },
+      {
+        "sentence": "I agree with you up to a point, but there are some potential drawbacks.",
+        "literalTranslation": "** 나는 특정 지점까지는 당신과 동의합니다, 하지만 약간의 잠재적인 결점들이 있습니다.",
+        "meaning": "어느 정도 동의는 하지만, 잠재적인 단점들이 좀 있는 것 같습니다.",
+        "nuance": "** 100% 반대가 아닌 **'up to a point'**(어느 정도까지만) 동의한다고 밑밥을 깐 뒤, **'drawbacks'**(단점, 결점)를 논리적으로 지적하는 세련된 방식입니다."
+      },
+      {
+        "sentence": "I’m not entirely convinced that this is the most viable solution right now.",
+        "literalTranslation": "** 나는 이것이 지금 당장 가장 실행 가능한 해결책이라고 전적으로 설득되지 않았습니다.",
+        "meaning": "이게 지금 당장 쓸 수 있는 최선의 해결책인지는 잘 모르겠네요.",
+        "nuance": "** \"네가 틀렸다\"가 아니라 **'I'm not entirely convinced'**(내가 완전히 설득되지 않았다)라고 내 상태를 표현하여 상대방의 방어 기제를 낮춥니다. **'viable'**은 실행 가능한이라는 뜻의 고급 단어입니다."
+      },
+      {
+        "sentence": "Let’s play devil’s advocate for a moment—what if the market conditions change?",
+        "literalTranslation": "** 잠시 악마의 변호인 역할을 해 봅시다—만약 시장 상황들이 변한다면 어떻게 되죠?",
+        "meaning": "일부러 반대 입장에서 한 번 생각해 봅시다. 만약 시장 상황이 변하면 어쩌죠?",
+        "nuance": "** **'play devil's advocate'**은 토론을 위해 일부러 반대 입장을 취해보겠다는 뜻의 훌륭한 관용구입니다. 개인적인 감정 없이 논리적 허점을 파고들 수 있는 최고의 전략입니다."
+      },
+      {
+        "sentence": "I hear what you’re saying, but looking at the data, the numbers tell a different story.",
+        "literalTranslation": "** 나는 당신이 말하는 것을 듣고 있습니다, 하지만 데이터를 볼 때 숫자들은 다른 이야기를 말해줍니다.",
+        "meaning": "무슨 말씀이신지 알겠는데, 데이터 수치들을 보면 결과가 다르게 나옵니다.",
+        "nuance": "** 상대의 주장을 반박할 때 개인적인 의견이 아닌 **'data'**와 **'numbers'**라는 객관적인 근거를 방패막이로 삼는 아주 차갑고 논리적인 화법입니다."
+      },
+      {
+        "sentence": "That could work in theory, but in practice, it might be quite challenging to implement.",
+        "literalTranslation": "** 그것은 이론적으로는 작동할 수 있습니다, 하지만 실제로는, 구현하기에 꽤 도전적일(힘들) 수 있습니다.",
+        "meaning": "이론상으로는 괜찮은데, 실제로 적용하기엔 좀 무리가 있을 것 같아요.",
+        "nuance": "** **'in theory'**(이론상)와 **'in practice'**(실제상)를 대비시켜 상대방의 주장이 현실성이 없음을 지적으로 꼬집는 문장입니다."
+      },
+      {
+        "sentence": "We might be overlooking a critical factor if we proceed down this path.",
+        "literalTranslation": "** 만약 우리가 이 길을 따라 진행한다면 우리는 결정적인 요인을 간과하고 있는 것일 수 있습니다.",
+        "meaning": "이대로 진행하면 우리가 뭔가 아주 중요한 걸 놓치게 될지도 몰라요.",
+        "nuance": "** **'overlooking'**(간과하다)과 **'critical factor'**(결정적 요인)를 사용하여, 반대보다는 '경고'에 가까운 뉘앙스로 상대의 재고를 유도합니다."
+      },
+      {
+        "sentence": "Let's agree to disagree on this one and move on to the next agenda item.",
+        "literalTranslation": "** 이 사안에 대해서는 동의하지 않기로 동의하고 다음 안건 아이템으로 이동합시다.",
+        "meaning": "이 부분은 서로 의견이 다른 걸로 해 두고 일단 다음 안건으로 넘어갑시다.",
+        "nuance": "** **'agree to disagree'**는 서로의 견해차를 좁힐 수 없을 때, 차이를 인정하고 소모적인 논쟁을 끝내자고 제안하는 원어민들의 세련된 타협 기술입니다."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Ch 84. Everyday Basic: Giving Constructive Feedback",
+    "coreMeaning": {
+      "kr": "이거 다시 해야 될 것 같아요.",
+      "en": "You need to do this again."
+    },
+    "variations": [
+      {
+        "sentence": "I can see the effort you put into this, but there are a few areas we could refine.",
+        "literalTranslation": "** 나는 당신이 이것에 넣은 노력을 볼 수 있습니다, 하지만 우리가 다듬을 수 있는 몇몇 영역들이 있습니다.",
+        "meaning": "고생하신 흔적이 보이네요. 다만 몇 군데 조금만 더 다듬으면 좋을 것 같습니다.",
+        "nuance": "** 피드백의 정석인 '칭찬-비판-칭찬'의 도입부입니다. **'refine'**은 틀린 것을 고친다는 뉘앙스보다 거친 것을 매끄럽게 '다듬는다'는 긍정적인 단어입니다."
+      },
+      {
+        "sentence": "To make this even stronger, we might want to reconsider the initial approach.",
+        "literalTranslation": "** 이것을 훨씬 더 강하게 만들기 위해, 우리는 초기 접근법을 재고하기를 원할 수도 있습니다.",
+        "meaning": "이걸 더 완벽하게 만들려면 처음 방향성을 다시 생각해 보는 게 좋을 것 같아요.",
+        "nuance": "** 피드백의 목적이 **'make this even stronger'**(더 강력하게 만들기 위함)임을 명시합니다. '네가 틀렸다' 대신 '우리가(**we**) 재고해보자'라고 말하여 연대감을 형성합니다."
+      },
+      {
+        "sentence": "What if we tried looking at this from a slightly different angle?",
+        "literalTranslation": "** 만약 우리가 이것을 약간 다른 각도에서 보는 것을 시도한다면 어떨까요?",
+        "meaning": "이걸 조금 다른 시각으로 접근해 보는 건 어떨까요?",
+        "nuance": "** **'What if ~'**를 사용하여 명령이 아닌 제안의 형태를 취합니다. 상대의 결과물을 부정하지 않고 단지 '다른 각도(**different angle**)'를 제안하는 아주 부드러운 화법입니다."
+      },
+      {
+        "sentence": "There’s a lot of potential here, though the execution needs a bit more polishing.",
+        "literalTranslation": "** 여기에 많은 잠재력이 있습니다, 비록 실행(구현)이 약간 더 많은 윤내기(다듬기)를 필요로 하지만요.",
+        "meaning": "아이디어 자체는 아주 좋은데, 디테일한 구현 부분을 좀 더 손보면 좋겠네요.",
+        "nuance": "** 아이디어의 **'potential'**(잠재력)을 칭찬하고, 부족한 점은 단지 **'polishing'**(윤내기, 디테일 작업)이 덜 되었을 뿐이라고 부드럽게 지적합니다."
+      },
+      {
+        "sentence": "I noticed a couple of inconsistencies in the data that we should address.",
+        "literalTranslation": "** 나는 우리가 다루어야 할 데이터 내의 두어 가지 불일치들을 알아차렸습니다.",
+        "meaning": "데이터 쪽에서 우리가 확인하고 넘어가야 할 안 맞는 부분들이 몇 개 보이네요.",
+        "nuance": "** '네가 실수했다'가 아니라 **'I noticed'**(내가 발견했다)라고 객관적으로 서술합니다. **'inconsistencies'**(불일치)라는 단어를 써서 팩트 위주로 문제를 제기합니다."
+      },
+      {
+        "sentence": "Instead of rewriting it completely, let's build on the foundation you've established.",
+        "literalTranslation": "** 그것을 완전히 다시 쓰는 대신, 당신이 확립한 토대 위에 지어 올립시다.",
+        "meaning": "아예 처음부터 다시 하기보다는, 지금 만들어 두신 틀을 바탕으로 보완해 나갑시다.",
+        "nuance": "** 상대의 멘탈을 지켜주는 훌륭한 리더의 화법입니다. 그동안의 작업을 쓸모없는 쓰레기가 아니라 **'foundation'**(토대)으로 인정해 줍니다."
+      },
+      {
+        "sentence": "Could you walk me through your thought process on this particular section?",
+        "literalTranslation": "** 이 특정한 섹션에 대한 당신의 사고 과정을 나를 걸어서 통과하게(설명해) 주실 수 있나요?",
+        "meaning": "이 부분은 어떤 의도로 이렇게 작업하신 건지 설명 좀 부탁드려도 될까요?",
+        "nuance": "** 이해가 안 가거나 틀린 부분을 무작정 비판하기 전, **'walk me through'**(단계별로 설명해달라)를 요청하여 상대방에게 방어할 기회를 주는 지적인 피드백입니다."
+      },
+      {
+        "sentence": "One minor tweak I’d suggest is adjusting the color scheme for better readability.",
+        "literalTranslation": "** 내가 제안할 하나의 사소한 비틀기(수정)는 더 나은 가독성을 위해 색상 체계를 조정하는 것입니다.",
+        "meaning": "가독성을 위해서 색상만 조금 수정해 보는 걸 제안드리고 싶네요.",
+        "nuance": "** **'minor tweak'**은 아주 사소한 수정 사항을 뜻합니다. 큰 문제가 아니라 금방 고칠 수 있는 작은 디테일임을 강조하여 피드백의 무게감을 줄여줍니다."
+      },
+      {
+        "sentence": "Let’s brainstorm some alternative solutions that might be more efficient.",
+        "literalTranslation": "** 더 효율적일 수 있는 몇 가지 대안적인 해결책들을 브레인스토밍해 봅시다.",
+        "meaning": "이것보다 효율을 더 높일 수 있는 대안이 있을지 같이 고민해 봅시다.",
+        "nuance": "** 비판에서 멈추지 않고 **'brainstorm'**(함께 고민하다)이라는 단어를 통해 피드백 제공자가 문제 해결에 동참하겠다는 협력적인 태도를 보여줍니다."
+      },
+      {
+        "sentence": "Overall, great progress. Let’s dial in these details before the final review.",
+        "literalTranslation": "** 전반적으로, 훌륭한 진척입니다. 최종 검토 전에 이 세부 사항들의 주파수를 맞춥시다(조정합시다).",
+        "meaning": "전반적으로 아주 잘 진행되고 있어요. 최종 리뷰 전에 디테일만 조금 더 잡아봅시다.",
+        "nuance": "** 피드백의 마무리로 완벽합니다. **'dial in'**은 라디오 주파수를 맞추듯 목표에 정확히 맞게 미세 조정한다는 뜻의 아주 세련된 비즈니스 관용구입니다."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Ch 85. Everyday Basic: Showing Sincere Empathy",
+    "coreMeaning": {
+      "kr": "안됐네요.",
+      "en": "I'm sorry to hear that."
+    },
+    "variations": [
+      {
+        "sentence": "I can’t imagine how difficult this must be for you right now.",
+        "literalTranslation": "** 이것이 지금 당신에게 얼마나 어려울지 나는 상상할 수 없습니다.",
+        "meaning": "지금 얼마나 힘드실지 감히 상상도 안 되네요.",
+        "nuance": "** 섣불리 \"네 맘 다 알아\"라고 하는 것은 오히려 독이 됩니다. **'I can't imagine'**을 사용하여 상대방이 겪는 고통의 크기를 온전히 인정해 주는 겸손하고 깊은 공감입니다."
+      },
+      {
+        "sentence": "It’s completely understandable that you’re feeling so frustrated.",
+        "literalTranslation": "** 당신이 그렇게 좌절감을 느끼는 것은 완전히 이해 가능합니다.",
+        "meaning": "그렇게 답답해하시는 것도 당연해요. 충분히 이해합니다.",
+        "nuance": "** **'completely understandable'**(완전히 이해할 만한)이라는 표현을 통해 상대방의 부정적인 감정(분노, 좌절 등)에 정당성을 부여하고 편들어 주는 든든한 화법입니다."
+      },
+      {
+        "sentence": "I just want you to know that I’m here for you, whatever you need.",
+        "literalTranslation": "** 나는 단지 당신이 필요로 하는 무엇이든 나를 위해 여기에 있다는 것을 당신이 알기를 원합니다.",
+        "meaning": "무슨 일이 있든 제가 옆에 있다는 것만 알아주세요.",
+        "nuance": "** 해결책을 제시하려 들지 않고, **'I'm here for you'**(내가 곁에 있다)라는 말로 정서적인 안전망을 제공하는 가장 따뜻하고 정석적인 위로입니다."
+      },
+      {
+        "sentence": "Please don't hesitate to lean on me if things get too overwhelming.",
+        "literalTranslation": "** 만약 상황들이 너무 압도적으로 변한다면 내게 기대는 것을 주저하지 마세요.",
+        "meaning": "상황이 너무 버거워지면 언제든 저한테 기대셔도 돼요.",
+        "nuance": "** **'lean on me'**는 나에게 기대다/의지하다는 뜻입니다. 상대방이 부담 갖지 않도록 **'don't hesitate'**(주저하지 마라)를 덧붙인 배려 깊은 문장입니다."
+      },
+      {
+        "sentence": "That sounds incredibly draining. Make sure you’re taking care of yourself.",
+        "literalTranslation": "** 그것은 믿을 수 없을 정도로 진을 빼는 것처럼 들립니다. 당신 자신을 돌보고 있는지 확인하세요.",
+        "meaning": "진짜 진 빠지는 일이네요. 밥 잘 챙겨 드시고 건강부터 챙기세요.",
+        "nuance": "** **'draining'**은 배터리가 방전되듯 에너지가 다 빠져나간다는 뜻입니다. 상대의 피로감을 정확히 짚어주고 자기 돌봄(**taking care of yourself**)을 당부하는 성숙한 조언입니다."
+      },
+      {
+        "sentence": "I’m so sorry you’re going through this. Is there anything I can take off your plate?",
+        "literalTranslation": "** 당신이 이것을 겪고 있어서 나는 매우 유감입니다. 내가 당신의 접시에서 덜어낼 수 있는 어떤 것이 있나요?",
+        "meaning": "이런 일을 겪게 되셔서 정말 안타까워요. 제가 대신 처리해 드릴 일이라도 있을까요?",
+        "nuance": "** **'take off your plate'**는 접시에 담긴 짐(업무나 책임)을 덜어준다는 뜻의 아주 실용적인 비즈니스 관용구입니다. 말뿐인 위로를 넘어 실질적인 도움을 제안할 때 씁니다."
+      },
+      {
+        "sentence": "Take all the time you need; we’ve got everything covered on this end.",
+        "literalTranslation": "** 당신이 필요로 하는 모든 시간을 가지세요; 우리는 이쪽 끝에서 모든 것을 덮어두었습니다.",
+        "meaning": "시간 충분히 가지세요. 이쪽 일은 저희가 다 알아서 백업하고 있을게요.",
+        "nuance": "** 동료가 개인사로 자리를 비울 때 건네는 최고의 위로입니다. **'got everything covered'**(우리가 다 커버한다)라는 말로 상대방의 마음의 짐을 완벽하게 덜어줍니다."
+      },
+      {
+        "sentence": "My heart goes out to you and your family during this tough time.",
+        "literalTranslation": "** 내 마음이 이 힘든 시간 동안 당신과 당신의 가족에게 밖으로 나갑니다.",
+        "meaning": "이 힘든 시기에 저의 온 마음을 다해 위로를 전합니다.",
+        "nuance": "** **'My heart goes out to you'**는 상을 당하거나 큰 비극을 겪은 사람에게 쓰는 아주 격식 있고 진중한 조의/위로 표현입니다."
+      },
+      {
+        "sentence": "It’s okay to feel upset right now. You have every right to be.",
+        "literalTranslation": "** 지금 당장 화를 내는 것은 괜찮습니다. 당신은 그럴 모든 권리를 가지고 있습니다.",
+        "meaning": "지금 화나는 거 당연한 거예요. 그럴 자격 충분해요.",
+        "nuance": "** **'have every right to'**(그럴 권리가 충분하다)라는 강한 긍정의 표현을 통해, 상대방이 자신의 부정적인 감정을 억누르지 않고 솔직하게 표현할 수 있도록 허락해 주는 화법입니다."
+      },
+      {
+        "sentence": "Words fall short, but please accept my deepest sympathies.",
+        "literalTranslation": "** 단어들이 짧게 떨어지지만, 부디 내 가장 깊은 동정을 받아주세요.",
+        "meaning": "어떤 말로도 위로가 안 되겠지만, 진심으로 심심한 위로를 표합니다.",
+        "nuance": "** **'Words fall short'**는 말로는 다 표현할 수 없다는 뜻의 문학적 표현입니다. **'deepest sympathies'**(깊은 애도/동정)와 결합하여 가장 진정성 있고 무거운 위로를 전합니다."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Ch 86. Everyday Basic: Emphasizing a Point",
+    "coreMeaning": {
+      "kr": "이게 제일 중요해요.",
+      "en": "This is the most important thing."
+    },
+    "variations": [
+      {
+        "sentence": "I cannot overstate the importance of resolving this issue immediately.",
+        "literalTranslation": "** 나는 이 문제를 즉시 해결하는 것의 중요성을 과장할 수 없습니다.",
+        "meaning": "이 문제를 당장 해결해야 한다는 점은 아무리 강조해도 지나치지 않습니다.",
+        "nuance": "** **'cannot overstate'**는 \"아무리 과장해서 말해도 부족하다\"는 뜻의 최고 수준의 강조 표현입니다. 사안의 긴급성과 중대성을 동시에 알릴 때 사용합니다."
+      },
+      {
+        "sentence": "The bottom line is that we need to secure more funding to proceed.",
+        "literalTranslation": "** 밑바닥 줄(핵심)은 우리가 진행하기 위해 더 많은 자금을 확보해야 한다는 것입니다.",
+        "meaning": "결론부터 말씀드리자면, 이대로 진행하려면 자금이 더 필요합니다.",
+        "nuance": "** **'The bottom line is'**는 재무제표의 맨 밑줄(순이익)에서 유래한 말로, 모든 변명을 걷어낸 '최종적인 결론/핵심'을 던질 때 쓰는 아주 명쾌한 관용구입니다."
+      },
+      {
+        "sentence": "If there’s one takeaway from this meeting, let it be our commitment to quality.",
+        "literalTranslation": "** 만약 이 회의에서 하나의 가져갈 것(핵심)이 있다면, 그것이 품질에 대한 우리의 헌신이 되게 합시다.",
+        "meaning": "오늘 회의에서 딱 하나만 기억해야 한다면, 품질을 향한 우리의 의지일 것입니다.",
+        "nuance": "** **'one takeaway'**는 청중이 꼭 챙겨가야 할 핵심 교훈을 뜻합니다. 수많은 정보 중 내가 원하는 단 한 가지에 청중의 기억을 고정시키는 훌륭한 프레젠테이션 기법입니다."
+      },
+      {
+        "sentence": "It is absolutely paramount that everyone adheres to the new safety guidelines.",
+        "literalTranslation": "** 모두가 새로운 안전 지침들을 고수하는 것은 절대적으로 최고로 중요합니다.",
+        "meaning": "모두가 새 안전 수칙을 지키는 것은 절대적으로 중요합니다.",
+        "nuance": "** **'paramount'**는 다른 어떤 것보다도 높은, '최우선적인'이라는 뜻의 고급 어휘입니다. **'absolutely'**와 결합하여 타협의 여지가 없음을 강력하게 선언합니다."
+      },
+      {
+        "sentence": "Let me be crystal clear: we will not compromise on our core values.",
+        "literalTranslation": "** 내가 크리스탈처럼 투명하게(명백하게) 하겠습니다: 우리는 우리의 핵심 가치들에 대해 타협하지 않을 것입니다.",
+        "meaning": "분명히 말씀드리겠습니다. 우리는 우리의 핵심 가치와 절대 타협하지 않습니다.",
+        "nuance": "** **'Let me be crystal clear'**는 모호함을 완전히 제거하고 단호한 입장을 표명할 때 쓰는 강렬한 도입부입니다. 리더의 단호한 결의를 보여주는 문장입니다."
+      },
+      {
+        "sentence": "I want to underscore the fact that this is a collective team effort.",
+        "literalTranslation": "** 나는 이것이 집단적인 팀 노력이라는 사실에 밑줄을 긋고(강조하고) 싶습니다.",
+        "meaning": "이건 우리 팀 전체의 노력이라는 사실을 꼭 강조하고 싶습니다.",
+        "nuance": "** **'underscore'**는 중요한 부분에 밑줄을 그어 눈에 띄게 한다는 뜻의 아주 지적인 동사입니다. 특정 사실(**the fact that**)에 사람들의 주의를 모을 때 씁니다."
+      },
+      {
+        "sentence": "This particular feature is the cornerstone of our entire software architecture.",
+        "literalTranslation": "** 이 특정한 기능은 우리 전체 소프트웨어 아키텍처의 주춧돌입니다.",
+        "meaning": "이 기능이야말로 우리 전체 아키텍처의 핵심 토대입니다.",
+        "nuance": "** **'cornerstone'**(주춧돌)은 건물을 지을 때 가장 먼저 놓는 기초입니다. 특정 요소가 전체 시스템에서 차지하는 절대적인 비중을 묘사하는 완벽한 건축적 은유입니다."
+      },
+      {
+        "sentence": "We must prioritize this task above all else on our agenda today.",
+        "literalTranslation": "** 우리는 이 과업을 오늘 우리 안건의 다른 모든 것 위에 우선순위로 두어야 합니다.",
+        "meaning": "오늘 안건 중에 이 업무를 최우선으로 처리해야 합니다.",
+        "nuance": "** **'above all else'**(다른 무엇보다도)라는 표현을 써서 수많은 일 중에서 단 하나의 타겟에 자원을 집중시킬 것을 강력하게 촉구합니다."
+      },
+      {
+        "sentence": "Make no mistake, our competitors are already moving aggressively in this space.",
+        "literalTranslation": "** 실수하지(착각하지) 마세요, 우리 경쟁자들은 이 공간에서 이미 공격적으로 움직이고 있습니다.",
+        "meaning": "착각하면 안 됩니다. 경쟁사들은 벌써 이 분야에서 발 빠르게 움직이고 있어요.",
+        "nuance": "** **'Make no mistake'**는 오판하지 마라, 명심하라는 뜻의 경고성 쿠션어입니다. 위기감을 조성하여 팀의 행동을 촉구하는 강력한 화법입니다."
+      },
+      {
+        "sentence": "Crucially, we need client approval before writing a single line of code.",
+        "literalTranslation": "** 결정적으로, 우리는 코드 한 줄을 쓰기 전에 고객의 승인이 필요합니다.",
+        "meaning": "가장 중요한 건, 코드 한 줄이라도 짜기 전에 무조건 고객 승인부터 받아야 한다는 겁니다.",
+        "nuance": "** 문장 맨 앞에 **'Crucially'**(결정적으로)라는 부사를 던져놓고 시작함으로써, 뒤따라오는 내용이 전체 프로세스의 성패를 가를 핵심 조건임을 강조합니다."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Ch 87. Everyday Basic: Downplaying an Issue",
+    "coreMeaning": {
+      "kr": "별일 아니에요.",
+      "en": "It's not a big deal."
+    },
+    "variations": [
+      {
+        "sentence": "It’s just a minor hiccup in the deployment process; nothing we can’t handle.",
+        "literalTranslation": "** 그것은 단지 배포 과정에서의 사소한 딸꾹질(문제)입니다; 우리가 다룰 수 없는 것은 없습니다.",
+        "meaning": "배포 중에 생긴 아주 사소한 문제일 뿐입니다. 우리가 다 해결할 수 있는 수준이에요.",
+        "nuance": "** **'minor hiccup'**은 아주 귀여운 비유입니다. 기계가 고장 난 것이 아니라 잠깐 딸꾹질을 한 것뿐이라며 문제의 심각성을 대폭 낮춰줍니다."
+      },
+      {
+        "sentence": "Let’s not blow this out of proportion; it’s an isolated incident.",
+        "literalTranslation": "** 이것을 비율 밖으로 불어내지(과장하지) 맙시다; 그것은 고립된(단발성) 사건입니다.",
+        "meaning": "이 일을 너무 부풀려서 생각하지 맙시다. 그냥 이번 한 번 우연히 발생한 일일 뿐이에요.",
+        "nuance": "** **'blow out of proportion'**은 비율을 깨뜨릴 만큼 과장한다는 뜻의 고급 관용구입니다. **'isolated incident'**(단발성 사건)라는 객관적 근거를 들어 상황을 통제합니다."
+      },
+      {
+        "sentence": "This is merely a bump in the road, not a roadblock.",
+        "literalTranslation": "** 이것은 단지 도로 위의 방지턱일 뿐, 도로를 막는 바리케이드가 아닙니다.",
+        "meaning": "가다가 방지턱 하나 넘는 것일 뿐이지, 길이 막힌 건 아닙니다.",
+        "nuance": "** **'bump in the road'**(과속 방지턱)와 **'roadblock'**(도로 차단물)의 라임을 살린 아주 시적인 표현입니다. 여정이 잠시 느려질 뿐 실패가 아님을 강조합니다."
+      },
+      {
+        "sentence": "I wouldn’t lose sleep over this. We have a solid contingency plan in place.",
+        "literalTranslation": "** 나는 이것 때문에 수면을 잃지 않을 것입니다. 우리는 확고한 비상 계획을 제자리에 가지고 있습니다.",
+        "meaning": "저라면 이 문제 때문에 밤잠 설치지는 않겠습니다. 확실한 플랜 B가 다 준비되어 있거든요.",
+        "nuance": "** **'lose sleep over'**는 밤잠을 설칠 만큼 걱정한다는 뜻입니다. 그렇게 할 필요가 없다는 쿨한 태도와 함께 **'contingency plan'**(비상 계획)이라는 든든한 방패를 제시합니다."
+      },
+      {
+        "sentence": "It’s a trivial matter that shouldn't impact our overall timeline.",
+        "literalTranslation": "** 그것은 우리의 전반적인 타임라인에 영향을 미치지 않아야 할 사소한 문제입니다.",
+        "meaning": "그건 전체 일정에는 전혀 지장을 주지 않을 아주 사소한 문제입니다.",
+        "nuance": "** **'trivial'**(사소한, 하찮은)이라는 단어로 이슈의 가치를 깎아내립니다. 비즈니스에서 가장 중요한 **'timeline'**에 영향이 없음을 보장하여 고객을 안심시킵니다."
+      },
+      {
+        "sentence": "Don't sweat the small stuff; we'll iron out these bugs in the next sprint.",
+        "literalTranslation": "** 작은 것들에 땀 흘리지 마세요; 우리는 다음 스프린트에서 이 버그들을 다림질해 낼(해결할) 것입니다.",
+        "meaning": "사소한 거에 너무 진 빼지 맙시다. 다음 스프린트 때 이 자잘한 버그들 싹 다 고칠 거니까요.",
+        "nuance": "** **'Don't sweat the small stuff'**는 원어민들이 아주 즐겨 쓰는 명언 같은 표현입니다. **'iron out'**은 구겨진 옷을 다림질하듯 문제를 매끄럽게 해결한다는 찰떡같은 은유입니다."
+      },
+      {
+        "sentence": "It’s par for the course with early-stage startups; we’ll pivot and move on.",
+        "literalTranslation": "** 그것은 초기 단계 스타트업에서는 코스를 위한 기준 타수(당연한 일)입니다; 우리는 방향을 틀고 계속 나아갈 것입니다.",
+        "meaning": "초기 스타트업에선 원래 다 겪는 일입니다. 빨리 방향 틀어서 다음 단계로 넘어가시죠.",
+        "nuance": "** **'par for the course'**는 골프에서 유래한 말로, \"보통 이 코스에서는 이 정도 타수는 당연히 나온다 = 원래 그런 거다\"라는 뜻입니다. 문제를 보편적인 현상으로 치부하여 부담을 덜어냅니다."
+      },
+      {
+        "sentence": "At the end of the day, this is just a drop in the bucket compared to what we’ve achieved.",
+        "literalTranslation": "** 하루의 끝에(결국), 이것은 우리가 성취한 것에 비하면 단지 양동이 안의 한 방울일 뿐입니다.",
+        "meaning": "결국 우리가 이뤄낸 성과에 비하면 이건 새 발의 피일 뿐이죠.",
+        "nuance": "** **'drop in the bucket'**(양동이의 물 한 방울)은 \"새 발의 피\", \"조족지혈\"을 뜻하는 아주 생생한 표현입니다. 과거의 위대한 성취를 환기시켜 현재의 작은 실수를 가려버립니다."
+      },
+      {
+        "sentence": "We’re making a mountain out of a molehill here. Let’s focus on the big picture.",
+        "literalTranslation": "** 우리는 여기서 두더지 언덕으로 산을 만들고(침소봉대하고) 있습니다. 큰 그림에 집중합시다.",
+        "meaning": "우리 지금 사소한 일을 너무 침소봉대하고 있는 것 같습니다. 큰 그림을 봅시다.",
+        "nuance": "** **'make a mountain out of a molehill'**(두더지 흙무더기를 산으로 만들다)은 \"침소봉대\"를 뜻하는 완벽한 영어식 속담입니다. 회의가 너무 지엽적인 문제로 빠졌을 때 방향을 바로잡는 훌륭한 문장입니다."
+      },
+      {
+        "sentence": "Consider it a minor glitch in the matrix; we’re already deploying a hotfix.",
+        "literalTranslation": "** 매트릭스(시스템) 안의 사소한 결함으로 그것을 고려하세요; 우리는 이미 핫픽스를 배포 중입니다.",
+        "meaning": "시스템에 잠깐 아주 사소한 결함이 생겼다고 치시죠. 이미 핫픽스 올리고 있습니다.",
+        "nuance": "** 영화 '매트릭스'에서 유래한 재치 있는 개발자식 농담입니다. **'glitch'**(기계의 일시적 오작동)라는 단어로 상황을 가볍게 넘기며, 이미 조치 중(**deploying a hotfix**)임을 알려 유능함을 뽐냅니다."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Ch 88. Everyday Basic: Polite Interruptions",
+    "coreMeaning": {
+      "kr": "잠깐만요.",
+      "en": "Wait a minute."
+    },
+    "variations": [
+      {
+        "sentence": "I apologize for the interruption, but could I just quickly add something here?",
+        "literalTranslation": "** 끼어듦에 대해 사과드립니다, 하지만 내가 여기에 무언가를 빠르고 단지 추가해도 될까요?",
+        "meaning": "말씀 중에 죄송한데, 여기에 짧게 하나만 덧붙여도 될까요?",
+        "nuance": "** **'apologize for the interruption'**으로 정중하게 양해를 구하고, **'just quickly add'**를 통해 내 발언이 길지 않을 것임을 약속하며 발언권을 얻는 정석적인 화법입니다."
+      },
+      {
+        "sentence": "If I may interject for a moment, I think we need to consider the budget constraints.",
+        "literalTranslation": "** 만약 내가 잠시 불쑥 끼어들 수 있다면, 나는 우리가 예산 제약들을 고려해야 한다고 생각합니다.",
+        "meaning": "잠시만 끼어들자면, 예산 문제도 고려해봐야 할 것 같습니다.",
+        "nuance": "** **'interject'**는 불쑥 끼어들다라는 뜻의 고급 어휘입니다. **'If I may ~'**(내가 ~해도 된다면)라는 가정법을 써서 아주 예의 바르게 대화의 흐름을 멈춥니다."
+      },
+      {
+        "sentence": "Sorry to cut you off, but I want to make sure I’m following you correctly.",
+        "literalTranslation": "** 당신을 잘라내서(말을 끊어서) 미안합니다, 하지만 나는 내가 당신을 올바르게 따라가고 있는지 확실히 하고 싶습니다.",
+        "meaning": "말씀 끊어서 죄송한데, 제가 제대로 이해하고 있는지 한 번만 짚고 넘어갈게요.",
+        "nuance": "** **'cut you off'**(말을 끊다)에 대해 사과한 뒤, 끼어든 이유를 '당신의 말을 더 잘 이해하기 위함(**make sure I'm following you**)'이라고 포장하는 아주 영리한 기술입니다."
+      },
+      {
+        "sentence": "Before we move on from that point, I’d like to raise a quick question.",
+        "literalTranslation": "** 우리가 그 지점으로부터 이동하기 전에, 나는 빠른 질문 하나를 제기하고 싶습니다.",
+        "meaning": "그 주제 넘어가기 전에, 짧은 질문 하나만 드리겠습니다.",
+        "nuance": "** 안건이 넘어가기 직전(**Before we move on**) 타이밍을 잡아채는 표현입니다. **'raise a question'**(질문을 제기하다)이라는 지적인 동사를 사용했습니다."
+      },
+      {
+        "sentence": "Excuse me for jumping in, but I have a relevant piece of data to share.",
+        "literalTranslation": "** 뛰어든 것에 대해 나를 용서하세요, 하지만 나는 공유할 관련 있는 데이터 한 조각을 가지고 있습니다.",
+        "meaning": "갑자기 끼어들어서 죄송한데, 지금 말씀하신 내용과 관련된 데이터가 하나 있어서요.",
+        "nuance": "** **'jumping in'**(대화에 뛰어들다)을 사과한 뒤, 내 끼어듦이 대화에 가치가 있는 정보(**relevant piece of data**)를 제공하기 위함임을 명분으로 내세웁니다."
+      },
+      {
+        "sentence": "I don't mean to derail the conversation, but shouldn't we address the security issue first?",
+        "literalTranslation": "** 나는 대화를 탈선시킬(주제를 벗어날) 의도는 없습니다, 하지만 우리는 보안 문제를 먼저 다루어야 하지 않나요?",
+        "meaning": "얘기 중에 딴소리하려는 건 아닌데, 보안 문제부터 먼저 짚고 가야 하지 않을까요?",
+        "nuance": "** **'derail'**은 기차가 탈선한다는 뜻으로, 대화의 주제를 벗어나게 한다는 비유입니다. **'I don't mean to ~'**(그럴 의도는 아니지만)를 써서 조심스럽게 화제를 돌립니다."
+      },
+      {
+        "sentence": "Just to piggyback on what you were saying, I totally agree and would add that...",
+        "literalTranslation": "** 당신이 말하고 있었던 것에 단지 업히기 위해서, 나는 전적으로 동의하며 그리고 ...을 추가하겠습니다.",
+        "meaning": "방금 하신 말씀에 조금 덧붙이자면, 전적으로 동의하고 하나 더 말씀드리고 싶습니다.",
+        "nuance": "** **'piggyback on'**은 (누군가의 등에) 업히다라는 뜻으로, 앞선 발언자의 아이디어에 내 의견을 얹어서 말할 때 쓰는 아주 세련된 비즈니스 관용구입니다."
+      },
+      {
+        "sentence": "Can I just pause you right there? I think we’re missing a crucial detail.",
+        "literalTranslation": "** 내가 당신을 거기서 단지 일시 정지시켜도 될까요? 나는 우리가 결정적인 디테일을 놓치고 있다고 생각합니다.",
+        "meaning": "잠깐 거기서 멈춰주실래요? 우리가 아주 중요한 디테일을 하나 놓치고 있는 것 같습니다.",
+        "nuance": "** **'pause you'**(당신을 일시 정지시키다)라는 직관적인 표현을 써서 대화를 멈춥니다. 위기 상황이나 중요한 결함을 발견했을 때 쓰는 다소 단호한 끼어들기입니다."
+      },
+      {
+        "sentence": "Pardon the intrusion, but the client has just arrived for the meeting.",
+        "literalTranslation": "** 침입을 용서하세요, 하지만 고객이 회의를 위해 방금 도착했습니다.",
+        "meaning": "방해해서 죄송합니다만, 회의차 고객님이 막 도착하셨습니다.",
+        "nuance": "** 물리적으로 회의실 문을 열고 들어가거나 대화를 중단시킬 때 쓰는 가장 격식 있는 표현입니다. **'intrusion'**(침입, 방해)이라는 단어를 써서 깍듯하게 예의를 갖춥니다."
+      },
+      {
+        "sentence": "Hold that thought for just a second—I need to take this urgent call.",
+        "literalTranslation": "** 그 생각을 단지 1초 동안만 잡고 계세요—나는 이 긴급한 전화를 받아야만 합니다.",
+        "meaning": "하던 얘기 잠깐만 멈춰줄래요? 엄청 급한 전화라 꼭 받아야 해서요.",
+        "nuance": "** **'Hold that thought'**는 \"네가 하려던 그 생각(말)을 잠시만 붙잡고 있어라\" 즉, \"잠깐만 하던 말 멈춰봐\"라는 뜻의 아주 위트 있고 실용적인 구어체입니다."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Ch 89. Everyday Basic: Expressing Mild Annoyance",
+    "coreMeaning": {
+      "kr": "짜증 나요.",
+      "en": "I'm annoyed."
+    },
+    "variations": [
+      {
+        "sentence": "I find it rather frustrating that we keep encountering the same issue.",
+        "literalTranslation": "** 우리가 계속 같은 문제에 부딪히는 것이 나는 다소 좌절스럽다는 것을 발견합니다.",
+        "meaning": "같은 문제가 계속 반복되니까 좀 답답하네요.",
+        "nuance": "** 화를 내는 대신 **'I find it rather frustrating'**(나는 다소 좌절감을 느낀다)라며 내 감정을 아주 차분하고 객관적으로 묘사합니다. 감정 조절이 뛰어난 시니어의 화법입니다."
+      },
+      {
+        "sentence": "It’s a bit bothersome that this wasn't communicated to the team earlier.",
+        "literalTranslation": "** 이것이 팀에 더 일찍 소통되지 않은 것은 약간 성가십니다.",
+        "meaning": "이 내용이 팀에 미리 공유되지 않은 건 좀 곤란하네요.",
+        "nuance": "** **'bothersome'**(성가신, 귀찮은)은 분노보다는 '불편함'을 나타내는 지적인 형용사입니다. 내가 아니라 '상황'을 주어로 삼아 공격성을 낮췄습니다."
+      },
+      {
+        "sentence": "I'm losing my patience with these constant delays in the project.",
+        "literalTranslation": "** 나는 프로젝트의 이 끊임없는 지연들과 함께 내 인내심을 잃고 있습니다.",
+        "meaning": "프로젝트가 자꾸 딜레이되니까 저도 슬슬 한계가 오네요.",
+        "nuance": "** **'losing my patience'**는 더 이상 참기 힘들다는 최후통첩에 가까운 경고입니다. 점잖지만 아주 무섭게 불만을 표시하는 문장입니다."
+      },
+      {
+        "sentence": "This approach is becoming increasingly counterproductive.",
+        "literalTranslation": "** 이 접근법은 점점 더 역효과를 낳고 있습니다.",
+        "meaning": "이런 식으로 하는 건 점점 효율만 떨어뜨릴 뿐이에요.",
+        "nuance": "** '짜증 난다'는 감정어를 쏙 빼고, 상대의 행동이 **'counterproductive'**(생산성에 역행하는)하다는 팩트로 뼈를 때리는 완벽한 개발자식 불만 표출입니다."
+      },
+      {
+        "sentence": "I would appreciate it if you didn't interrupt while I'm speaking.",
+        "literalTranslation": "** 내가 말하고 있는 동안 당신이 끼어들지 않는다면 나는 감사할 것입니다.",
+        "meaning": "말씀 중에 안 끊어 주셨으면 좋겠네요.",
+        "nuance": "** 상대의 무례함을 지적할 때 **'I would appreciate it if'**(당신이 ~해주시면 감사하겠습니다)라는 극도의 정중한 패턴을 써서 오히려 상대를 부끄럽게 만듭니다."
+      },
+      {
+        "sentence": "It’s slightly irritating to have to repeat myself on this matter.",
+        "literalTranslation": "** 이 문제에 대해 내 자신을 반복해야만(똑같은 말을 반복해야만) 하는 것은 약간 짜증이 납니다.",
+        "meaning": "같은 말을 계속 반복하게 만드니까 좀 피곤하네요.",
+        "nuance": "** **'irritating'**은 피부가 따갑듯 신경을 거슬리게 한다는 뜻입니다. 상대의 이해력이나 집중력 부족을 꼬집을 때 씁니다."
+      },
+      {
+        "sentence": "I'm not exactly thrilled with how this situation was handled.",
+        "literalTranslation": "** 나는 이 상황이 처리된 방식에 대해 정확히 흥분되지(기쁘지) 않습니다.",
+        "meaning": "이번 일이 처리된 과정이 솔직히 썩 달갑지는 않네요.",
+        "nuance": "** \"나는 화가 났다\" 대신 **'I'm not exactly thrilled'**(전혀 기쁘지 않다)라는 반어적이고 문학적인 표현을 사용하여 불만의 격조를 높였습니다."
+      },
+      {
+        "sentence": "This is starting to feel like a colossal waste of everyone's time.",
+        "literalTranslation": "** 이것은 모두의 시간의 거대한 낭비처럼 느껴지기 시작하고 있습니다.",
+        "meaning": "이러면 진짜 우리 다 시간 낭비만 하는 것 같아요.",
+        "nuance": "** **'colossal'**(거대한, 엄청난)이라는 단어를 써서 비효율적인 상황에 대한 강한 거부감을 나타냅니다. 회의가 산으로 갈 때 던지기 좋은 일침입니다."
+      },
+      {
+        "sentence": "With all due respect, your tone is highly unprofessional right now.",
+        "literalTranslation": "** 마땅한 존경과 함께, 당신의 어조는 지금 당장 대단히 비전문적입니다.",
+        "meaning": "외람되지만, 지금 그 말투는 전혀 프로답지 못하시네요.",
+        "nuance": "** 상대가 감정적으로 선을 넘었을 때, **'unprofessional'**이라는 단어로 상대의 태도 자체를 객관적으로 평가하며 제압하는 최고의 반격기입니다."
+      },
+      {
+        "sentence": "Let's stick to the facts rather than pointing fingers.",
+        "literalTranslation": "** 손가락을 가리키는(비난하는) 것보다는 사실들에 달라붙읍시다.",
+        "meaning": "누구 탓인지 따지지 말고 일단 팩트만 가지고 얘기합시다.",
+        "nuance": "** **'pointing fingers'**는 남 탓을 하며 비난한다는 뜻의 관용구입니다. 감정싸움으로 번지려는 상황을 이성적으로 차단하는 훌륭한 중재 화법입니다."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Ch 90. Everyday Basic: Sarcasm & Irony",
+    "coreMeaning": {
+      "kr": "참 잘~ 했네요.",
+      "en": "Oh, brilliant."
+    },
+    "variations": [
+      {
+        "sentence": "Oh, absolutely brilliant. Just what we needed right now.",
+        "literalTranslation": "** 오, 절대적으로 훌륭하네요. 딱 지금 당장 우리에게 필요했던 것이에요.",
+        "meaning": "아주 훌륭하네요. 지금 타이밍에 참 기가 막히게 터져줬네요.",
+        "nuance": "** 최악의 상황(버그 발생 등)이 터졌을 때, 오히려 **'brilliant'**(훌륭한)라고 극찬하며 상황의 어처구니없음을 극대화하는 가장 흔한 반어법입니다."
+      },
+      {
+        "sentence": "Well, aren't you just a ray of sunshine today?",
+        "literalTranslation": "** 음, 당신은 오늘 단지 한 줄기 햇살이 아니신가요?",
+        "meaning": "아이고, 오늘 참 햇살같이 해맑으시네요.",
+        "nuance": "** 아침부터 짜증을 내거나 초를 치는 동료에게 던지는 말입니다. 상대의 부정적인 태도를 **'ray of sunshine'**(한 줄기 햇살)이라는 초긍정적인 단어로 비꼬는 화법입니다."
+      },
+      {
+        "sentence": "Fascinating story. Tell it to someone who actually cares.",
+        "literalTranslation": "** 매혹적인 이야기네요. 실제로 신경 쓰는 누군가에게 그것을 말하세요.",
+        "meaning": "와, 진짜 흥미진진하네. 근데 난 관심 없으니까 딴 데 가서 얘기할래?",
+        "nuance": "** 쓸데없는 TMI나 변명을 늘어놓는 사람의 입을 다물게 할 때 씁니다. 먼저 칭찬(**Fascinating**)한 뒤, 무관심(**someone who actually cares**)을 때려 박는 콤보입니다."
+      },
+      {
+        "sentence": "Take your time; it's not like we have a deadline or anything.",
+        "literalTranslation": "** 당신의 시간을 가지세요; 우리가 데드라인이나 그런 것을 가지고 있는 것도 아니잖아요.",
+        "meaning": "천천히 하세요~ 뭐 우리 데드라인 같은 거 있는 것도 아니잖아요?",
+        "nuance": "** 데드라인이 코앞인데 느릿느릿 일하는 사람을 재촉하는 고도의 심리전입니다. **'It's not like ~'**(~인 것도 아니잖아) 패턴을 활용한 전형적인 비꼬기입니다."
+      },
+      {
+        "sentence": "Oh, I'm sorry, did the middle of my sentence interrupt the beginning of yours?",
+        "literalTranslation": "** 오 미안합니다, 내 문장의 중간이 당신 문장의 시작을 방해했나요?",
+        "meaning": "어휴 죄송. 제가 말하는 중간에 끼어드셨는데, 혹시 제 말이 방해됐나요?",
+        "nuance": "** 내 말을 자꾸 끊는 사람에게 대놓고 화를 내는 대신, 논리를 비틀어 \"내 말이 네가 끼어드는 걸 방해해서 미안하다\"고 아주 우아하게 뼈를 때리는 문장입니다."
+      },
+      {
+        "sentence": "I love how you state the painfully obvious with such confidence.",
+        "literalTranslation": "** 당신이 고통스러울 정도로 뻔한 것을 그런 자신감과 함께 진술하는 방식을 나는 사랑합니다.",
+        "meaning": "누구나 다 아는 당연한 소리를 그렇게 당당하게 하다니, 진짜 대단하네요.",
+        "nuance": "** 뒷북을 치거나 영양가 없는 소리를 하는 사람에게 던집니다. **'painfully obvious'**(고통스러울 정도로 뻔한)라는 멋진 묘사로 상대의 주장을 깎아내립니다."
+      },
+      {
+        "sentence": "That’s a great idea, assuming we live in a world where logic doesn't apply.",
+        "literalTranslation": "** 그것은 위대한 아이디어입니다, 우리가 논리가 적용되지 않는 세계에 살고 있다고 가정한다면요.",
+        "meaning": "참 좋은 아이디어네요. 뭐, 논리 따위가 안 통하는 세상이라면 말이죠.",
+        "nuance": "** 말도 안 되는 기획안을 가져왔을 때 씁니다. 일단 칭찬한 뒤, **'assuming ~'**(~라고 가정하면) 이하에 말도 안 되는 조건을 달아버리는 폭격기 화법입니다."
+      },
+      {
+        "sentence": "Wow, I feel so much better now that you've pointed out my mistake.",
+        "literalTranslation": "** 와우, 당신이 내 실수를 지적해 내어서 이제 나는 훨씬 더 나아짐을 느낍니다.",
+        "meaning": "와, 제 실수 그렇게 콕 집어 주시니까 아주 속이 다 시원하네요.",
+        "nuance": "** 쓸데없는 지적질을 하는 사람에게 던지는 방어 기제입니다. 감사의 말 형태를 띠고 있지만, 표정과 억양으로 '진짜 짜증 난다'는 뜻을 전달합니다."
+      },
+      {
+        "sentence": "Yes, because burying our heads in the sand is clearly the winning strategy here.",
+        "literalTranslation": "** 네, 모래 속에 우리 머리를 파묻는 것이 여기서 분명히 승리하는 전략이니까요.",
+        "meaning": "네, 타조처럼 현실 도피하는 게 아주 기가 막힌 전략이네요.",
+        "nuance": "** **'burying heads in the sand'**는 타조가 위험할 때 모래에 머리를 박는 것에 빗대어 '현실을 직시하지 않는 태도'를 비꼬는 완벽한 관용구입니다."
+      },
+      {
+        "sentence": "Thank you for that invaluable contribution to our collective silence.",
+        "literalTranslation": "** 우리의 집단적인 침묵에 대한 당신의 그 귀중한 공헌에 감사합니다.",
+        "meaning": "회의 분위기 갑분싸(침묵)로 만들어 주셔서 참~ 감사합니다.",
+        "nuance": "** 누군가 썰렁한 농담이나 맥 빠지는 소리를 해서 회의실에 정적이 흘렀을 때, 그 어색함을 뚫고 던지는 최고의 펀치라인입니다. **'invaluable contribution'**(귀중한 공헌)이라는 극존칭을 쓴 것이 킬포인트입니다."
+      }
+    ]
   }
 ]
